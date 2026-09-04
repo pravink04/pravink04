@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Pravin Kumar
+# 👋 Hi, I'm Pravin Kumar U
 
-### 🎓 Fresher | Aspiring Gen AI Engineer
+### 🎓 Fresher | Aspiring AI & ML Specialist | Gen AI Engineer | Python
 
 I'm a fresher passionate about **Python, Machine Learning, Data Science, and Deep Learning**.
 I enjoy building practical projects and continuously improving my technical skills.
@@ -34,7 +34,7 @@ I enjoy building practical projects and continuously improving my technical skil
 **Deep Learning**
 
 * TensorFlow
-* Keras
+  
 
 **Tools**
 
